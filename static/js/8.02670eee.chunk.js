@@ -1,0 +1,2 @@
+(this.webpackJsonpmyapp=this.webpackJsonpmyapp||[]).push([[8],{254:function(e,n,t){},260:function(e,n,t){"use strict";t.r(n);var a=t(0),p=t.n(a);t(254);n.default=function(){return p.a.createElement("div",{className:""},p.a.createElement("p",null,"HI NIGGAS"))}}}]);
+//# sourceMappingURL=8.02670eee.chunk.js.map
